@@ -39,6 +39,7 @@ const NavBar = () => {
             </Toolbar>
         </AppBar>
         <br /><br /><br />
+        <h1>Welcome To MyApp</h1>
     </div>
   )
 }
